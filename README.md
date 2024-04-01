@@ -3,9 +3,11 @@
 -🎓 Graduando em Ciência da Computação no [IFSULDEMINAS-Campus Muzambinho](https://muz.ifsuldeminas.edu.br/).<br>-💼 Desenvolvedor Delphi.<br>-👀 interesse em Front-end.<br>-👾interesse em jogos e cultura nerd.
 
 
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DRUXTOK#5600) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([[https://instagram.com/https://www.instagram.com/fortunato.roncholeta/]](https://www.instagram.com/fortunato.roncholeta?igsh=aXpveTFubmVvdjFw )
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fortunato.roncholeta?igsh=aXpveTFubmVvdjFw) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fortunato-roncholeta-a4a56a209/) 
 
 # 💻 Tech Stack:
