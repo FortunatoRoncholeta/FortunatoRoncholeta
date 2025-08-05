@@ -1,6 +1,6 @@
 # ✌️ Olá, bem vindo ao meu Github
 
--🎓 Graduando em Ciência da Computação no [IFSULDEMINAS-Campus Muzambinho](https://muz.ifsuldeminas.edu.br/).<br>-💼 Desenvolvedor Delphi.<br>-👀 interesse em Front-end.<br>-👾interesse em jogos e cultura nerd.
+-🎓 Ciência da Computação  [IFSULDEMINAS-Campus Muzambinho](https://muz.ifsuldeminas.edu.br/).<br>-💼 Desenvolvedor Delphi.<br>-👀 interesse em Front-end.<br>-👾interesse em jogos e cultura nerd.
 
 
 
